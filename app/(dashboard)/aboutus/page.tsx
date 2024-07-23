@@ -15,7 +15,7 @@ const AboutUs = () => {
         <p className="bg-gradient-to-r from-amber-400 to-orange-500 bg-clip-text text-xl font-bold leading-tight tracking-tighter text-transparent text-center mt-4">
             Making managing finances easier with our budget management and
             tracking features and services.
-          </p>
+        </p>
 
         {/* Features */}
         <div className="bg-gradient-to-r from-amber-400 to-orange-500 bg-clip-text font-bold leading-tight tracking-tighter text-transparent mt-12">
@@ -87,7 +87,7 @@ const AboutUs = () => {
             </div>
             <div className="w-1/2 mt-8">
               <p className="text-primary text-2xl">
-                We help you get your finances into shape so that you don't need
+                We help you get your finances into shape so that you don&apos;t need
                 to stress about every dollar you spend. Knowing how much and
                 what you spend makes it easier to change your financial habits
                 if needed.
@@ -99,8 +99,8 @@ const AboutUs = () => {
               <p className="text-primary text-2xl">
                 Our goal is to provide you with the tools and insights to manage
                 your money effectively, without unnecessary stress. Whether
-                you're saving for a big purchase, planning for retirement, or
-                simply tracking your daily expenses, we've got you covered.
+                you&apos;re saving for a big purchase, planning for retirement, or
+                simply tracking your daily expenses, we&apos;ve got you covered.
               </p>
             </div>
             <div className="w-1/2 mt-8">
